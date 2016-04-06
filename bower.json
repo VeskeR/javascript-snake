@@ -1,0 +1,22 @@
+{
+  "name": "javascript-snake",
+  "version": "0.0.0",
+  "description": "Snake game front-end realization written in javascript",
+  "main": "",
+  "authors": [
+    "Andrey Bulat"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/VeskeR/javascript-snake",
+  "moduleType": [],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^2.2.2"
+  }
+}
